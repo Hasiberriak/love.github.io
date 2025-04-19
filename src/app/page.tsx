@@ -89,7 +89,7 @@ export default function LoveSequence() {
                 onChange={(e) => setAnswer(e.target.value)}
                 className="option-input"
               />
-              <span className="option-text">Love</span>
+              <span className="option-text">รักมากๆๆๆ</span>
             </label>
             <label className="option-label">
               <input
@@ -99,7 +99,7 @@ export default function LoveSequence() {
                 onChange={(e) => setAnswer(e.target.value)}
                 className="option-input"
               />
-              <span className="option-text">Love very much</span>
+              <span className="option-text">รักมากที่สุดในโลก</span>
             </label>
           </div>
           <button
